@@ -2,7 +2,7 @@
 - 👀 I’m interested in YOU
 - 🌱 I’m currently learning  Html, CSS, and Back-End Developer Tools like Laravel
 - 💞️ I’m looking to collaborate on anyone who can help me enhance my skills in coding
-- 📫 How to reach me: suelilajohnanthony@gmail.com
+- 📫 How to reach me suelilajohnanthony@gmail.com
 
 <!---
 JohanNight/JohanNight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
