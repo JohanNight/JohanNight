@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @JohanNight
-- 👀 I’m interested in YOU
-- 🌱 I’m currently learning  Html, CSS, and Back-End Developer Tools like Laravel
+- 👋 Hi, I’m JohanNight
+- 👀 I’m interested in Web Development and Game Development
+- 🌱 I have a solid foundation in HMTL5, CSS3, JavaScript, and Reactjs
+- 😎 I have also a hands on experience on using PHP, Laravel, Vuejs, C++, C#, Python, MySql, and Godot Game Engine
 - 💞️ I’m looking to collaborate on anyone who can help me enhance my skills in coding
 - 📫 How to reach me suelilajohnanthony@gmail.com
 
